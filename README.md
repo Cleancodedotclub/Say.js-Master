@@ -1,2 +1,3 @@
-# Say.js-Master
 The Node.js Say.js Master GitHub repository contains code for a Node.js module that allows developers to utilize text-to-speech functionality in their applications. Specifically, the module allows developers to generate spoken audio from text input, with support for multiple languages and voices.
+
+The repository contains the source code for the module, including JavaScript files and configuration files, as well as example code for how to use the module in a Node.js application. Additionally, the repository includes documentation on how to install and use the module, including information on the various options and configurations available.
